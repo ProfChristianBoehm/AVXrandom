@@ -42,8 +42,8 @@ A SIMD and MIMD parallel version of the 48-bit pseudo-random number generator dr
   If you use the code or the datasets, please consider citing the paper:
 
     @inproceedings{BoehmPlant2020,
-    Title     = {Massively Parallel Random Number Generation},
-    Author    = {Christian B\"(o)hm and Claudia Plant},
-    Booktitle = {IEEE Int. Conf. on Big Data (BigData 2020)},
-    Year      = {2020}}
+      Title     = {Massively Parallel Random Number Generation},
+      Author    = {Christian B\"(o)hm and Claudia Plant},
+      Booktitle = {IEEE Int. Conf. on Big Data (BigData 2020)},
+      Year      = {2020}}
  
