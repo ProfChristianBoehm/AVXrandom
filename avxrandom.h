@@ -39,7 +39,7 @@
  * @InProceedings{BP2020,
  *   Title     = {Massively Parallel Random Number Generation},
  *   Author    = {Christian B\"(o)hm and Claudia Plant},
- *   Booktitle = {Submitted},
+ *   Booktitle = {IEEE Int. Conf. on Big Data (BigData 2020},
  *   Year      = {2020}}
  */
 
