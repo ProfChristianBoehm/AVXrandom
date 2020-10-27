@@ -18,10 +18,13 @@ A SIMD and MIMD parallel version of the 48-bit pseudo-random number generator dr
  * _mm512_java_seed_skip_epi64(v,j): the seed method for _mm512_nextdouble_pd; returns the initial state s
   
   s (__m512i) is the state vector
+  
   v (int) is the seed value as it is used in srand48 and in the constructor in java.util.Random.
+  
   j (int64) is the number of random numbers that are implicitly skipped before the first number is generated
   
   The following code example demonstrates its use:
+  
   srand48(25);
   for(int i=0; i<n; i++){
       double h = drand48();
